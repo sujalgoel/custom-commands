@@ -1,0 +1,5 @@
+{
+    "token": "NzcyNDM3MzM0Mzk0MDExNjQ4.X56qUw.zj_MRPZwYNwK6CiSbpr13b3Axr4",
+    "prefix": "!",
+    "mongoURI": "mongodb://localhost:27017/Impostor"
+}
